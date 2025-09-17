@@ -30,3 +30,30 @@
     margin-left:0.2rem;
     
 }
+
+.nav{
+   height:100px;
+   margin:5rem;
+}
+
+.search{
+    padding:1rem 0;
+    outline:none;
+    border:none;
+    color:white;
+    background-color:transparent;
+    font-size:1.1rem;
+    border-bottom: 2px solid white;
+    width:98%;
+}
+
+nav form button{
+    background-color: white;
+    margin-top:1rem;
+    font-size:1.1rem;
+    outline:none;
+    border:none;
+    cursor:pointer;
+    padding:0.5rem;
+}
+   
